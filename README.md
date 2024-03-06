@@ -1,4 +1,4 @@
-Main coursework: A compiler for the C language
+A compiler for the C language
 ==============================================
 
 Your program should read C source code from a file, and write corresponding RISC-V assembly to another file.
